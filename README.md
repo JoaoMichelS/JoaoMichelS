@@ -33,4 +33,6 @@ I'm João Vitor, and I'm currently in the 5th semester of Computer Engineering!
       <img width="25" src="instagram.png">
     </a>
 </div>
+  
+  
 ![Snake animation](https://github.com/joaomichels/joaomichels/blob/output/github-contribution-grid-snake.svg)
