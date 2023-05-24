@@ -22,7 +22,7 @@ I'm João Vitor, and I'm currently in the 5th semester of Computer Engineering!
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Social Media</h1>
     <a href = "https://www.linkedin.com/in/joaomichels/">
       <img width="25" src="linkedin.svg">
     </a>
