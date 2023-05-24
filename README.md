@@ -6,7 +6,8 @@ I'm João Vitor, and I'm currently in the 5th semester of Computer Engineering!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomichels&show_icons=true&theme=tokyonight&count_private=true" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomichels&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-
+<br>
+  
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -33,4 +34,4 @@ I'm João Vitor, and I'm currently in the 5th semester of Computer Engineering!
     </a>
 </div>
 
-
+![Snake animation](https://github.com/joaomichels/joaomichels/blob/output/github-contribution-grid-snake.svg)
