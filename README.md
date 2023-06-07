@@ -3,8 +3,9 @@ Hey, how's it going? I'm a Computer Engineering student, currently in the fifth 
 
 <div>
   <a href="https://github.com/JoaoMichelS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomichels&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomichels&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomichels&layout=compact&langs_count=16&theme=tokyonight"/>
+   
 </div>
 <br>
   
