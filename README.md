@@ -3,8 +3,8 @@ Hey, how's it going? I'm a Computer Engineering student, currently in the fifth 
 
 <div>
   <a href="https://github.com/JoaoMichelS">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaomichels&show_icons=true&theme=tokyonight&count_private=true" />
-  <img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoMichelS&layout=compact&theme=tokyonight"/>
+  <img height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaomichels&show_icons=true&theme=tokyonight&count_private=true" />
+  <img align="right" height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoMichelS&layout=compact&theme=tokyonight"/>
 </div>
 <br>
   
