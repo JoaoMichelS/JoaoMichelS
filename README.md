@@ -33,6 +33,3 @@ Hey, how's it going? I'm a Computer Engineering student, currently in the fifth 
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-  
-![Snake animation](https://github.com/joaomichels/joaomichels/blob/output/github-contribution-grid-snake.svg)
