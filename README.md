@@ -1,5 +1,5 @@
 ### Welcome to my repositories👨‍💻
-Hey, how's it going? I'm a Computer Engineering student, currently in the fifth semester, I got to know the technology area after taking a technical course in mechatronics, and since then I've been exploring this incredible world of technology!
+Hey, how's it going? I'm a Computer Engineering student, currently in the seventh semester, I got to know the technology area after taking a technical course in mechatronics, and since then I've been exploring this incredible world of technology!
 
 <div>
   <a href="https://github.com/JoaoMichelS">
